@@ -24,7 +24,7 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-#        'views/todo_view.xml',
+        'views/todo_view.xml'
 #        'security/ir.model.access.csv',
 #        'security/todo_access_rules.xml',
     ],
